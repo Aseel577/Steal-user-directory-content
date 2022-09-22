@@ -1,6 +1,6 @@
 # Steal-user-directory-content
 
-This is very simple directory stealer written by C++
+This is very simple directory stealer written in C++
 
 The default port is 4444 , you can change it.
 
